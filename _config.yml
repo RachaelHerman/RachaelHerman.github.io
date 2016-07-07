@@ -3,7 +3,7 @@
 title: Rachael Herman
 locale: en_US
 description: Rachael Herman's professional page.
-logo: #
+logo: site-logo.png
 search: true
 url: https://rachaelherman.github.io/
 relative_permalinks: false
@@ -37,11 +37,11 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Rachael Herman
-  avatar: # add a photo of yourself here
-  email: rwherman13@gmail.com
+  name: Your Name
+  avatar: bio-photo.jpg
+  email: you@email.com
   disqus-shortname:
-  twitter: rwherman1
+  twitter: #username
   facebook: #username
   github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username
