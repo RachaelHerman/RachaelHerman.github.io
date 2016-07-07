@@ -26,7 +26,7 @@
 		margin-top: 0px; /* move up to be overlapped by site logo */
 	}
 	@include media($large) {
-		margin-top: -190px; /* move up further to be overlapped by site logo */
+		margin-top: 0px; /* move up further to be overlapped by site logo */
 	}
 }
 
