@@ -22,4 +22,4 @@ Contact:
 * email: <a href="mailto:rwherman13@gmail.com" target="_blank">rwherman13@gmail.com</a>
 * twitter: <a href="https://twitter.com/rwherman1" target="_blank">@rwherman1</a>
 
-![Rachael!](/images/Rachael_ADPE.png)
+<center><img src="/images/Rachael_ADPE.png" alt="Rachael" width="200" height="200"></center>
