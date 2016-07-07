@@ -14,4 +14,5 @@ Welcome to my professional website. I am a student and independent researcher st
 
 Contact:
 
-* <a href="mailto:rwherman13@gmail.com" target="_blank">rwherman13@gmail.com</a>
+* email: <a href="mailto:rwherman13@gmail.com" target="_blank">rwherman13@gmail.com</a>
+* twitter: <a href="https://twitter.com/rwherman1" target="_blank">@rwherman1</a>
