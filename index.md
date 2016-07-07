@@ -15,6 +15,8 @@ foraging ecology, genetics, and conservation of seabirds across the globe. I am 
 in the process of completing my M.S. in Oceanography in the <a
 href="http://www.oceanography.lsu.edu/politolab/">Polito Lab</a> at Louisiana State University. 
 
+<div markdown="0"><a href="http://rachaelherman.github.io/research/Herman_CV.pdf" class="btn">Curriculum Vitae</a></div>
+
 Contact:
 
 * email: <a href="mailto:rwherman13@gmail.com" target="_blank">rwherman13@gmail.com</a>
