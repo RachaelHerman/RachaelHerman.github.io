@@ -23,10 +23,10 @@
 	margin: -20px 0 0;
 	width: 100%;
 	@include media($medium) {
-		margin-top: -440px; /* move up to be overlapped by site logo */
+		margin-top: -225px; /* move up to be overlapped by site logo */
 	}
 	@include media($large) {
-		margin-top: -440px; /* move up further to be overlapped by site logo */
+		margin-top: -225px; /* move up further to be overlapped by site logo */
 	}
 }
 
@@ -68,7 +68,7 @@
 /* page title */
 
 span + .entry-title {
-	margin-top: -200;
+	margin-top: -20;
 }
 
 .entry-title {
@@ -94,7 +94,7 @@ span + .entry-title {
 
 .entry-wrapper {
 	@include outer-container;
-	margin-top: -100;
+	margin-top: 0;
 	margin-bottom: 3em;
 	padding-right: $gutter;
 	padding-left: $gutter;
