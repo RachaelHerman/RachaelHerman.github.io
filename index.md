@@ -1,7 +1,11 @@
---- layout: page title: About the Jekyll Theme excerpt: "So Simple is a responsive Jekyll
-theme for your words and images." modified: 2014-08-08T19:44:38.564948-04:00 image:
-feature: so-simple-sample-image-4.jpg credit: WeGraphics creditlink:
-http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/ ---
+---
+layout: page
+title: Home
+excerpt: "A personal website for Rachael Herman."
+image:
+  feature: so-simple-sample-image-4.jpg
+search_omit: true
+---
 
 # Rachael Herman
 # 
@@ -11,3 +15,5 @@ seabird foraging ecology, genetics, and conservation.
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Curriculum Vitae</a>
 
 * Contact info
+
+THis is markdown
