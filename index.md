@@ -10,4 +10,4 @@ seabird foraging ecology, genetics, and conservation.
 
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Curriculum Vitae</a>
 
-* Contact info?
+* Contact info
