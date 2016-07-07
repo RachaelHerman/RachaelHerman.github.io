@@ -10,7 +10,10 @@ image:
   creditlink: 
 ---
 
-Welcome to my professional website. I am a student and independent researcher studying the foraging ecology, genetics, and conservation of seabirds across the globe.
+Welcome to my professional website. I am a student and independent researcher studying the
+foraging ecology, genetics, and conservation of seabirds across the globe. I am currently
+in the process of completing my M.S. in Oceanography in the <a
+href="http://www.oceanography.lsu.edu/politolab/">Polito Lab</a> at Louisiana State University. 
 
 Contact:
 
