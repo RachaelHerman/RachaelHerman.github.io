@@ -6,7 +6,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
 search_omit: true
 image:
   feature: WAAL.png
-  credit: 
+  credit: Wandering Albatross (*Diomedea exulans*), Drake Passage
   creditlink: 
 ---
 
