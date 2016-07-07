@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Rachael Herman
+title: Site Title
 locale: en_US
-description: Rachael Herman's professional page.
+description: Describe your website here.
 logo: site-logo.png
 search: true
 url: https://rachaelherman.github.io/
