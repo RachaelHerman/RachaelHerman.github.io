@@ -10,6 +10,8 @@ image:
   creditlink: 
 ---
 
+<center><img src="/images/Rachael_ADPE.png" alt="Rachael" width="250" height="250"></center>
+
 Welcome to my professional website. I am a student and independent researcher studying the
 foraging ecology, genetics, and conservation of seabirds across the globe. I am currently
 in the process of completing my M.S. in Oceanography in the <a
@@ -22,4 +24,3 @@ Contact:
 * email: <a href="mailto:rwherman13@gmail.com" target="_blank">rwherman13@gmail.com</a>
 * twitter: <a href="https://twitter.com/rwherman1" target="_blank">@rwherman1</a>
 
-<center><img src="/images/Rachael_ADPE.png" alt="Rachael" width="200" height="200"></center>
