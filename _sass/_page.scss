@@ -68,7 +68,7 @@
 /* page title */
 
 span + .entry-title {
-	margin-top: -20;
+	margin-top: -200;
 }
 
 .entry-title {
@@ -94,7 +94,7 @@ span + .entry-title {
 
 .entry-wrapper {
 	@include outer-container;
-	margin-top: 0;
+	margin-top: -100;
 	margin-bottom: 3em;
 	padding-right: $gutter;
 	padding-left: $gutter;
