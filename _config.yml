@@ -6,7 +6,6 @@ description: Describe your website here.
 logo: site-logo.png
 search: true
 url: https://rachaelherman.github.io/
-port: 4444
 relative_permalinks: false
 
 # Jekyll configuration
