@@ -10,7 +10,7 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Welcome to my professional website. 
+Welcome to my professional website. blah
 
 ## So Simple Theme is all about:
 
