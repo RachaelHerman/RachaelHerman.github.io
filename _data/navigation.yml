@@ -1,13 +1,13 @@
 # Site navigation links
 
 - title: Home
-  url: /
+  url: 
 
 - title: Research
-  url: /research/
+  url: /research
 
 - title: Field Work
-  url: /field work/
+  url: /field work
 
 - title: Photo Gallery
-  url: /photo gallery/
+  url: /photo gallery
