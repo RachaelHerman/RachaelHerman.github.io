@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .masthead {
-  margin-top: 200px;
+  margin-top: 20px;
   @include clearfix;
   @include media($medium) {
     margin-top: 0;
