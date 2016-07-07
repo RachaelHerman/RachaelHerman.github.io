@@ -1,16 +1,10 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Research
+  url: /research/
 
-- title: Articles
-  url: /articles/
+- title: Field Work
+  url: /field work/
 
-- title: Blog
-  url: /blog/
-
-- title: Theme Setup
-  url: /theme-setup/
-
-- title: Search
-  url: /search/
+- title: Photo Gallery
+  url: /photo gallery/
