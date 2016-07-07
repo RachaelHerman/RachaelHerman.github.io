@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: Home
+title: Rachael Herman
 excerpt: "Home page for Rachael Herman."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
