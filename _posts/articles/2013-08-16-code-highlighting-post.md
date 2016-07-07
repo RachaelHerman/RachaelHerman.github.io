@@ -49,9 +49,9 @@ module Jekyll
       @site = site
       @base = base
       @dir = dir
-      @name = 'index.html'
+      @name = 'index.md'
       self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), 'tag_index.html')
+      self.read_yaml(File.join(base, '_layouts'), 'tag_index.md')
       self.data['tag'] = tag
       tag_title_prefix = site.config['tag_title_prefix'] || 'Tagged: '
       tag_title_suffix = site.config['tag_title_suffix'] || '&#8211;'
@@ -104,9 +104,9 @@ module Jekyll
       @site = site
       @base = base
       @dir = dir
-      @name = 'index.html'
+      @name = 'index.md'
       self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), 'tag_index.html')
+      self.read_yaml(File.join(base, '_layouts'), 'tag_index.md')
       self.data['tag'] = tag
       tag_title_prefix = site.config['tag_title_prefix'] || 'Tagged: '
       tag_title_suffix = site.config['tag_title_suffix'] || '&#8211;'
