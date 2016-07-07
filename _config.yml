@@ -38,10 +38,10 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  avatar: Rachael_albie.jpg
+  email: rwherman13@gmail.com
   disqus-shortname:
-  twitter: #username
+  twitter: rwherman1
   facebook: #username
   github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username
