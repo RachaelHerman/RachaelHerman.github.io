@@ -25,7 +25,7 @@ on answering these questions about <i>Pygoscelis</i> penguin foraging ecology th
 
 ## Phylogeography of North Pacific Procellariiformes
 
-<img src="/images/BFAL.png" alt="GEPE" width="200" height="200" align="right">The genetic diversity and evolutionary histories of tubenosed seabirds (Procellariiformes) are poorly known, in large
+<img src="/images/BFAL.png" alt="GEPE" width="200" height="200" hspace="5" align="right">The genetic diversity and evolutionary histories of tubenosed seabirds (Procellariiformes) are poorly known, in large
 part because of the difficulty of obtaining samples from their remote breeding islands. Genetic data are lacking even
 from otherwise well-studied seabirds from the North Pacific Ocean, including those that breed in the Hawaiian Islands.
 New genomic techniques are now allowing us to retrieve data from new sources, such as specimens archived in natural
