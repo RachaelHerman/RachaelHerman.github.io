@@ -11,7 +11,7 @@ image:
 ---
 
 
-## Population and individual level foraging variation among Pygoscelis Penguins
+## Population and individual level foraging variation among <i>Pygoscelis</i> penguins
 
 <img src="/images/GEPE_white.png" alt="GEPE" width="200" height="200" align="left">
 While the diets and foraging ecology of <i>Pygoscelis</i> penguins have been well studied
