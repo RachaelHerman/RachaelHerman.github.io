@@ -9,6 +9,7 @@ image:
   credit: Laysan Albatross (Phoebastria immutabilis), Laysan Atoll
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
   
-  Coming soon!
+
 ---
 
+Coming soon!
