@@ -8,5 +8,7 @@ image:
   feature: 2_LAAL.png
   credit: Laysan Albatross (Phoebastria immutabilis), Laysan Atoll
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  
+  Coming soon!
 ---
 
