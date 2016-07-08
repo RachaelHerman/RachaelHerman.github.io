@@ -10,7 +10,7 @@ image:
   creditlink: 
 ---
 
-<center><img src="/images/Rachael_ADPE.png" alt="Rachael" width="250" height="250"></center>
+<center><img src="/images/Rachael_camera.png" alt="Rachael" width="250" height="250"></center>
 
 Welcome to my professional website. I am a student and independent researcher studying the
 foraging ecology, genetics, and conservation of seabirds across the globe. I am currently
