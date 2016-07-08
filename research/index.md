@@ -13,7 +13,7 @@ image:
 
 ## Population and individual level foraging variation among Pygoscelis Penguins
 
-<img src="/images/GEPE_white.jpg" alt="GEPE" width="200" height="200" align="left">
+<img src="/images/GEPE_white.png" alt="GEPE" width="200" height="200" align="left">
 While the diets and foraging ecology of <i>Pygoscelis</i> penguins have been well studied
 in the Antarctic Peninsula and Scotia Arc region, many studies overlook diet and niche
 variation among and within populations, as well as variation within individuals.
