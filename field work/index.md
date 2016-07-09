@@ -9,3 +9,5 @@ image:
   credit: M/V Hans Hansson taken from Comb Island, the Danger Islands
   creditlink:
 ---
+
+<center>Coming soon!</center>

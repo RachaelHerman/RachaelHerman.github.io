@@ -12,4 +12,4 @@ image:
 
 ---
 
-Coming soon!
+<center>Coming soon!</center>
