@@ -14,13 +14,15 @@ image:
 ## Population and individual level foraging variation among <i>Pygoscelis</i> penguins
 
 <img src="/images/GEPE_white.png" alt="GEPE" width="200" height="200" align="left">
-While the diets and foraging ecology of <i>Pygoscelis</i> penguins have been well studied
-in the Antarctic Peninsula and Scotia Arc region, many studies overlook diet and niche
-variation among and within populations, as well as variation within individuals.
-Quantifying the degree of niche variation and consistency at the population and individual
-level has the potential to aid in determining a species population level response to
-changes in food availability or other environmental change. My Master's research focuses
-on answering these questions about <i>Pygoscelis</i> penguin foraging ecology through stable isotope analysis. 
+While the diets and foraging ecology of <i>Pygoscelis</i> penguins have been well studied in the Antarctic Peninsula and
+Scotia Arc region, many studies overlook diet and niche variation among and within populations, as well as variation
+within individuals. One way to explore these questions is through stable isotope analysis (SIA), which provides an
+effective method to assess the diet and foraging niches of populations and individuals through time. Together, δ<sup>15</sup>N and δ<sup>13</sup>C values can
+be used to determine the 2-dimensional parameters of an isotopic niche space, a comparable measurement of an ecological
+or foraging niche. My Master's research focuses on investigating population and individual level foraging variation of <i>Pygoscelis</i> penguin foraging
+strategies through SIA. Quantifying the degree of niche variation and consistency at the population and
+individual level has the potential to aid in determining a species population level response to changes in food
+availability or other environmental change. 
 
 
 ## Phylogeography of North Pacific Procellariiformes
