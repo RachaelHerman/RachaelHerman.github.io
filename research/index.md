@@ -13,7 +13,7 @@ image:
 
 ## Population and individual level foraging variation among <i>Pygoscelis</i> penguins
 
-<img src="/images/GEPE_2.png" alt="GEPE" width="200" height="200" vspace="5" style="PADDING-RIGHT: 13px" align="left" style="-webkit-filter: drop-shadow(3px 3px 3px #222); filter: drop-shadow(3px 3px 3px #222);">
+<img src="/images/GEPE_2.png" alt="GEPE" width="200" height="200" vspace="5" style="PADDING-RIGHT: 13px" align="left">
 While the diets and foraging ecology of <i>Pygoscelis</i> penguins have been well studied in the Antarctic Peninsula and
 Scotia Arc region, many studies overlook diet and niche variation among and within populations, as well as variation
 within individuals. One way to explore these questions is through stable isotope analysis (SIA), which provides an
@@ -27,7 +27,7 @@ availability or other environmental change.
 
 ## Phylogeography of North Pacific Procellariiformes
 
-<img src="/images/BFAL.png" alt="BFAL" width="200" height="200" hspace="5" align="right" style="-webkit-filter: drop-shadow(5px 5px 5px #222); filter: drop-shadow(5px 5px 5px #222);">
+<img src="/images/BFAL.png" alt="BFAL" width="200" height="200" hspace="5" align="right">
 The genetic diversity and evolutionary histories of tubenosed seabirds (Procellariiformes) are poorly known, in large
 part because of the difficulty of obtaining samples from their remote breeding islands. Genetic data are lacking even
 from otherwise well-studied seabirds from the North Pacific Ocean, including those that breed in the Hawaiian Islands.
