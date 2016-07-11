@@ -13,7 +13,7 @@ image:
 
 ## Population and individual level foraging variation among <i>Pygoscelis</i> penguins
 
-<img src="/images/GEPE.png" alt="GEPE" width="200" height="200" style="PADDING-RIGHT: 5px" style="PADDING-BOTTOM: 5px" align="left">
+<img src="/images/GEPE.png" alt="GEPE" width="200" height="200" hspace="5" vspace="5" align="left">
 While the diets and foraging ecology of <i>Pygoscelis</i> penguins have been well studied in the Antarctic Peninsula and
 Scotia Arc region, many studies overlook diet and niche variation among and within populations, as well as variation
 within individuals. One way to explore these questions is through stable isotope analysis (SIA), which provides an
