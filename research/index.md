@@ -19,8 +19,8 @@ Scotia Arc region, many studies overlook diet and niche variation among and with
 within individuals. One way to explore these questions is through stable isotope analysis (SIA), which provides an
 effective method to assess the diet and foraging niches of populations and individuals through time. Together, δ<sup>15</sup>N and δ<sup>13</sup>C values can
 be used to determine the 2-dimensional parameters of an isotopic niche space, a comparable measurement of an ecological
-or foraging niche. My Master's research focuses on investigating population and individual level foraging variation of <i>Pygoscelis</i> penguin foraging
-strategies through SIA. Quantifying the degree of niche variation and consistency at the population and
+or foraging niche. My Master's research focuses on investigating population and individual level foraging variation of
+<i>Pygoscelis</i> penguins through SIA. Quantifying the degree of niche variation and consistency at the population and
 individual level has the potential to aid in determining a species population level response to changes in food
 availability or other environmental change. 
 
