@@ -17,7 +17,7 @@ foraging ecology, genetics, and conservation of seabirds across the globe. I rec
 completed my M.Sc in Oceanography and Coastal Sciences in <a
 href="http://www.oceanography.lsu.edu/politolab/">Michael Polito's Lab</a> at Louisiana State University. 
 
-<div markdown="0"><a href="http://rachaelherman.github.io/research/Herman_CV_7_7_2016.pdf" class="btn">Curriculum Vitae</a></div>
+<div markdown="0"><a href="http://rachaelherman.github.io/research/Herman_CV_2_23_2017.pdf" class="btn">Curriculum Vitae</a></div>
 
 Contact:
 
