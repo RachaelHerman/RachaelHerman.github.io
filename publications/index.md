@@ -16,3 +16,5 @@ species in the Antarctic Peninsula region.</b> <i>Marine Biology</i> 164(5):115.
 
 Herman RW. 2016. <b>Investigating Species and Population Level Foraging Variation and Individual 
 Specialization in Pygoscelis Penguins Using Stable Isotope Analysis.</b> Master's thesis, Louisiana State University. <a href="http://etd.lsu.edu/docs/available/etd-07062016-143033/">[link]</a>
+
+<a href="https://scholar.google.com/citations?user=qdcAYrkAAAAJ&hl=en&oi=sra">Google Scholar page</a>
