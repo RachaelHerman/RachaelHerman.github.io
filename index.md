@@ -22,6 +22,6 @@ href="http://www.oceanography.lsu.edu/politolab/">Michael Polito's Lab</a> at Lo
 
 Contact:
 
-* email: <a href="mailto:rwherman13@gmail.com" target="_blank"><b>rwherman13@gmail.com</b></a> and <a href="mailto:hermanra@umich.edu" target="_blank"><b>hermanra@umich.edu</b></a>
+* email: <a href="mailto:rwherman13@gmail.com" target="_blank"><b>rwherman13@gmail.com</b></a> and <a href="mailto:rachael.herman@stonybrook.edu" target="_blank"><b>rachael.herman@stonybrook.edu</b></a>
 * twitter: <a href="https://twitter.com/rwherman1" target="_blank">@rwherman1</a>
 
