@@ -12,9 +12,10 @@ image:
 
 <center><img src="/images/Rachael_camera.png" alt="Rachael" width="250" height="250"></center>
 
-Welcome to my professional website. I am a research assistant at the University of Michigan. I studying the
-foraging ecology, genetics, and conservation of seabirds across the globe. I recently 
-completed my M.Sc in Oceanography and Coastal Sciences in <a
+Welcome to my professional website. I am a PhD student at Stony Brook University in the
+<a href="https://lynchlab.com/">Lynch Lab</a>. I studying the
+foraging ecology, genetics, and conservation of seabirds across the globe. I received 
+my M.Sc in Oceanography and Coastal Sciences in <a
 href="http://www.oceanography.lsu.edu/politolab/">Michael Polito's Lab</a> at Louisiana State University. 
 
 <div markdown="0"><a href="http://rachaelherman.github.io/research/Herman_CV_2_23_2017.pdf" class="btn">Curriculum Vitae</a></div>
