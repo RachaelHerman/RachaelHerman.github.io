@@ -12,10 +12,8 @@ image:
 
 <center><img src="/images/Rachael_camera.png" alt="Rachael" width="250" height="250"></center>
 
-Welcome to my professional website. I study the
-foraging ecology, genetics, and conservation of seabirds across the globe. I received 
-my M.Sc in Oceanography and Coastal Sciences in <a
-href="http://www.oceanography.lsu.edu/politolab/">Michael Polito's Lab</a> at Louisiana State University. 
+Welcome to my professional website. I study the foraging ecology, genetics, and conservation of seabirds across the globe. I received 
+my M.Sc in Oceanography and Coastal Sciences in <a href="http://www.oceanography.lsu.edu/politolab/">Michael Polito's Lab</a> at Louisiana State University. 
 
 <div markdown="0"><a href="http://rachaelherman.github.io/research/Herman_CV_2_23_2017.pdf" class="btn">Curriculum Vitae</a></div>
 
