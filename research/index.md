@@ -21,7 +21,7 @@ history museums. I am using a technique called sequence capture to obtain DNA se
 modern genetic samples and museum specimens in Wedge-tailed Shearwater (<i>Ardenna pacificus</i>) to reconstruct the population 
 history of this globally distributed species and to assess population structure and divergence between breeding areas. These results might be used 
 to revise species-level taxonomy and prioritize populations for conservation action.
-<img src="/images/WTSH_PCA.png" alt="WTSH" width="500" hspace="5" align="center">
+<img src="/images/WTSH_PCA.png" alt="WTSH" width="500" hspace="5">
 
 
 ## Population and individual level foraging variation among <i>Pygoscelis</i> penguins
