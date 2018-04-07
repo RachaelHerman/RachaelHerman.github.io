@@ -18,9 +18,11 @@ part because of the difficulty of obtaining samples from their remote breeding i
 from otherwise well-studied seabirds from the North Pacific Ocean, including those that breed in the Hawaiian Islands.
 New genomic techniques are now allowing us to retrieve data from new sources, such as specimens archived in natural
 history museums. I am using a technique called sequence capture to obtain DNA sequence data from across the genome from
-modern genetic samples and museum specimens in Wedge-tailed Shearwater (<i>Ardenna pacifica</i>) to reconstruct the population 
-history of the speices and to assess population structure and divergence between breeding areas. These results might be used 
+modern genetic samples and museum specimens in Wedge-tailed Shearwater (<i>Ardenna pacificus</i>) to reconstruct the population 
+history of this globally distributed species and to assess population structure and divergence between breeding areas. These results might be used 
 to revise species-level taxonomy and prioritize populations for conservation action.
+<img src="/images/WTSH_PCA.png" alt="WTSH" width="500" hspace="5" align="center">
+
 
 ## Population and individual level foraging variation among <i>Pygoscelis</i> penguins
 
