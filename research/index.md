@@ -10,6 +10,20 @@ image:
   creditlink: 
 ---
 
+## Range expansion, colonization, and gene flow in gentoo penguins
+
+<img src="/images/WTSH_specimen.jpg" alt="BFAL" width="200" hspace="5" align="right">
+Monitoring changes in marine predators is critical to our understanding of marine ecosystems, particularly their responses 
+to climate change and other environmental pressures, particularly in polar regions. Gentoo penguins (<i>Pygoscelis papua</i>) are considered 
+“climate change winners,” as they have undergone rapid population growth along the Western Antarctic Peninsula since the early 
+1990s and have expanded their range further south in the region resulting in many new breeding colonies. I am investigating precise mechanisms by which 
+gentoo penguins are able to expand their range in response to warming conditions despite being highly 
+site faithful and obligate colonists. Range shifts are predicted to be widespread under climate change and this project provides an 
+novel opportunity to integrate genomics, a unique dataset on known colonization events,and satellite imagery 
+(Landsat, ICESat, ICESat-2) to tease apart how habitat changes can facilitate migration, dispersal, and colonization in this pioneering species.
+
+
+
 ## Phylogeography of North Pacific Procellariiformes
 
 <img src="/images/WTSH_specimen.jpg" alt="BFAL" width="200" hspace="5" align="right">
