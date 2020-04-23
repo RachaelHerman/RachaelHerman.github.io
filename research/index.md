@@ -12,7 +12,8 @@ image:
 
 ## Range expansion, colonization, and gene flow in a pioneering seabird
 
-<div style="text-align: center"><img src="/images/GEPE_map.jpg" width="800" /></div>
+<img src="/images/GEPE_map.jpg" width="800" class="floatLeft">
+
 Monitoring changes in marine predators is critical to our understanding of marine ecosystems, particularly their responses 
 to climate change and other environmental pressures, particularly in polar regions. Gentoo penguins (<i>Pygoscelis papua</i>) are considered 
 “climate change winners,” as they have undergone rapid population growth along the Western Antarctic Peninsula since the early 
