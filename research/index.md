@@ -10,7 +10,7 @@ image:
   creditlink: 
 ---
 
-## Range expansion, colonization, and gene flow in gentoo penguins
+## Range expansion, colonization, and gene flow in a pioneering seabird
 
 <img src="/images/WTSH_specimen.jpg" alt="BFAL" width="200" hspace="5" align="right">
 Monitoring changes in marine predators is critical to our understanding of marine ecosystems, particularly their responses 
