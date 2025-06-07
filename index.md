@@ -10,12 +10,9 @@ image:
   creditlink: 
 ---
 
-<center><img src="/headshot.png" alt="Rachael" width="250" height="250"></center>
+<center><img src="headshot.png" alt="Rachael" width="250" height="250"></center>
 
----
-layout: default
-title: Home
----
+
 
 # Rachael Herman, Ph.D.
 
