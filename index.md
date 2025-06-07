@@ -10,7 +10,7 @@ image:
   creditlink: 
 ---
 
-<center><img src="/HERMAN_RACHAEL.png" alt="Rachael" width="250" height="250"></center>
+<center><img src="/headshot.png" alt="Rachael" width="250" height="250"></center>
 
 ---
 layout: default
