@@ -10,7 +10,7 @@ image:
   creditlink: 
 ---
 
-<center><img src="/HERMAN_RACHAEL" alt="Rachael" width="250" height="250"></center>
+<center><img src="/HERMAN_RACHAEL.png" alt="Rachael" width="250" height="250"></center>
 
 ---
 layout: default
@@ -19,10 +19,8 @@ title: Home
 
 # Rachael Herman, Ph.D.
 
-Welcome to my personal website. I am a postdoctoral researcher specializing in genomics, bioinformatics, and conservation biology...
 
-
-Welcome to my website. I am an NSF Office of Polar Progam's Postdoctoral Research Fellow specializing in genomics, epigenetics, bioinformatics, and conservation biology  <a href="https://you.stonybrook.edu/veeramahlab/">Krishna Veeramah's Lab</a> in the Department of Ecology & Evolution at Stony Brook University. I research the molecular ecology and genomics of seabirds, particulary those found in the Antarctic and sub-Antarctic. I received my Ph.D. in Ecology & Evolution in <a href="https://www.lynchlab.com//">Heather Lynch's Lab</a> at Stony Brook University. 
+Welcome to my website! I am an NSF Office of Polar Progam's Postdoctoral Research Fellow specializing in genomics, epigenetics, bioinformatics, and conservation biology  <a href="https://you.stonybrook.edu/veeramahlab/">Krishna Veeramah's Lab</a> in the Department of Ecology & Evolution at Stony Brook University. I research the molecular ecology and genomics of seabirds, particulary those found in the Antarctic and sub-Antarctic. I received my Ph.D. in Ecology & Evolution in <a href="https://www.lynchlab.com//">Heather Lynch's Lab</a> at Stony Brook University. 
 
 <div markdown="0"><a href="http://rachaelherman.github.io/research/Rachael_Herman_CV_2025.pdf" class="btn">Curriculum Vitae</a></div>
 
