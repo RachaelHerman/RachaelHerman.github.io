@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rachael W. Herman
-excerpt: "Home page for Rachael Herman."
+excerpt: "Home page for Rachael W Herman."
 modified: 2014-08-08T19:44:38.564948-04:00
 search_omit: true
 image:
@@ -10,15 +10,24 @@ image:
   creditlink: 
 ---
 
-<center><img src="/images/Rachael_ADPE.png" alt="Rachael" width="250" height="250"></center>
+<center><img src="/HERMAN_RACHAEL" alt="Rachael" width="250" height="250"></center>
 
-Welcome to my website. I am a PhD student in the <a href="https://lynchlab.com/">Lynch Lab</a> in the Department of Ecology and Evolution at Stony Brook University. I study the foraging ecology, genetics, and conservation of seabirds across the globe. I received 
-my M.Sc in Oceanography and Coastal Sciences in <a href="https://www.oceanography.lsu.edu/politolab/">Michael Polito's Lab</a> at Louisiana State University. 
+---
+layout: default
+title: Home
+---
 
-<div markdown="0"><a href="http://rachaelherman.github.io/research/Herman_CV_4_5_2018.pdf" class="btn">Curriculum Vitae</a></div>
+# Rachael Herman, Ph.D.
+
+Welcome to my personal website. I am a postdoctoral researcher specializing in genomics, bioinformatics, and conservation biology...
+
+
+Welcome to my website. I am an NSF Office of Polar Progam's Postdoctoral Research Fellow specializing in genomics, epigenetics, bioinformatics, and conservation biology  <a href="https://you.stonybrook.edu/veeramahlab/">Krishna Veeramah's Lab</a> in the Department of Ecology & Evolution at Stony Brook University. I research the molecular ecology and genomics of seabirds, particulary those found in the Antarctic and sub-Antarctic. I received my Ph.D. in Ecology & Evolution in <a href="https://www.lynchlab.com//">Heather Lynch's Lab</a> at Stony Brook University. 
+
+<div markdown="0"><a href="http://rachaelherman.github.io/research/Rachael_Herman_CV_2025.pdf" class="btn">Curriculum Vitae</a></div>
 
 Contact:
 
-* email: <a href="mailto:rwherman13@gmail.com" target="_blank"><b>rwherman13@gmail.com</b></a> and <a href="mailto:rachael.herman@stonybrook.edu" target="_blank"><b>rachael.herman@stonybrook.edu</b></a>
-* twitter: <a href="https://twitter.com/rwherman1" target="_blank">@rwherman1</a>
+* email: <a href="mailto:rachael.herman@stonybrook.edu" target="_blank"><b>rachael.herman@stonybrook.edu</b></a>
+
 
